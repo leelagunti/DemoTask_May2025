@@ -6,7 +6,7 @@ It includes:
 - Homepage validation
 - Careers page
 - Page Object Model design
-
+- Environment file to seal security
 
 ---
 
